@@ -9,6 +9,4 @@ export class Store {
   static users = [];
   static defaultUsers = [];
   static searchedUsers = [];
-  static isSearching = false;
-  static currentUser = null;
 }
